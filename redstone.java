@@ -180,3 +180,10 @@ tick = () => {
         powerGrid = active
     }
 }
+
+
+/* 
+License: MIT
+Copyright (c) 2026 [_FAKE]
+Permission is hereby granted to anyone to use, copy, and modify this code.
+*/

@@ -1,5 +1,7 @@
 //------------------------------_FAKE------------------
 //-------------------------BLOXDSTONE------------------
+api.broadcastMessage("thankyou for using bloxdStone- _FAKE", { color: "lime" })
+
 powerGrid = []
 lastCheck = 0
 
